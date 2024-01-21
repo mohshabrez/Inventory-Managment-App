@@ -1,4 +1,4 @@
-export const BASE_URL = "https://0911fe36-a912-4e94-957e-879e50532a1d-00-3a21x5wldpre6.pike.replit.dev/api" 
+export const BASE_URL = "https://inventory-managment.onrender.com/api" 
 
 // Item Actions
 
